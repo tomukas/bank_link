@@ -20,6 +20,18 @@ VK_SERVICE:
       - :VK_CURR
       - :VK_REF
       - :VK_MSG
+    "2001":
+      - :VK_SERVICE
+      - :VK_VERSION
+      - :VK_SND_ID
+      - :VK_STAMP
+      - :VK_AMOUNT
+      - :VK_CURR
+      - :VK_ACC
+      - :VK_PANK
+      - :VK_NAME
+      - :VK_REF
+      - :VK_MSG      
     "4001":
       - :VK_SERVICE
       - :VK_VERSION
